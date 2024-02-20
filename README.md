@@ -7,6 +7,12 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am Technical Content creator on Linkedin feel free to reach out to me there.
 
+- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ammar-munirr/ammar-munirr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammar-munirr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ammar Munir's GitHub Stats" />
+</a>
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
