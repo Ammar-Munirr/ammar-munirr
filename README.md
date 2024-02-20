@@ -19,6 +19,11 @@
 ![](https://img.shields.io/badge/REST%20APIs-Django%20Rest%20Framework-%2327ab7e)
 ![](https://img.shields.io/badge/Web-Flask-%2327ab7e)
 
+[twitter]: https://twitter.com/ammar_munirr
+[instagram]: https://instagram.com/ammar.munirr
+[linkedin]: https://www.linkedin.com/in/ammar-munirr/
+[facebook]: https://www.facebook.com/ammar.munirr
+
 ### Connect with me:
 
 [<img align="left" alt="Ammar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
