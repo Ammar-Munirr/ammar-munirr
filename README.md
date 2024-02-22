@@ -1,4 +1,4 @@
-### Hi I'm Ammar Munir 👋
+<h1 align="center">Hi I'm Ammar Munir 👋  </h1>
 
 
 - 🔭 I’m Django Backend Developer
@@ -46,6 +46,7 @@ I have been making constant efforts to make a mark in the field of Computer Scie
 
 [<img align="left" alt="Ammar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" fill="white" />][twitter]
 [<img align="left" alt="Ammar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" fill="white" />][facebook]
+ <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
 [<img align="left" alt="Ammar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" fill="white" />][linkedin]
 [<img align="left" alt="Ammar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" fill="white" />][instagram]
 
