@@ -28,6 +28,15 @@ I have been making constant efforts to make a mark in the field of Computer Scie
 ![](https://img.shields.io/badge/REST%20APIs-Django%20Rest%20Framework-%2327ab7e)
 ![](https://img.shields.io/badge/Web-Flask-%2327ab7e)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+    
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ammar-munirr}/count.svg" /></p> 
+
+<br>
+</div>
+<hr>
+
 [twitter]: https://twitter.com/ammar_munirr
 [instagram]: https://instagram.com/ammar.munirr
 [linkedin]: https://www.linkedin.com/in/ammar-munirr/
