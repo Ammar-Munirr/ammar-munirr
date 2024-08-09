@@ -49,6 +49,4 @@ I have been making constant efforts to make a mark in the field of Computer Scie
 [<img align="left" alt="Ammar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" fill="white" />][linkedin]
 [<img align="left" alt="Ammar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" fill="white" />][instagram]
 
-<img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
-
 
