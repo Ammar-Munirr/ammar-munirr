@@ -1,8 +1,8 @@
 <h1 align="center">Hi I'm Ammar Munir 👋  </h1>
 
 
-- 🔭 I’m Full Stack Developer (Django/Nextjs)
-- 💬 Ask me about Nextjs, Django and Web Development
+- 🔭 Senior Backend Developer here.
+- 💬 Ask me about Python/Django, LLM, Langchain or AI model Integrations and Web Development
 - 📫 How to reach me: https://linktr.ee/ammar.munirr
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am Technical Content creator on Linkedin feel free to reach out to me there.
